@@ -1,5 +1,4 @@
 <img align="right" alt="Coding" width="300" src="https://i.ibb.co/QMm30Yr/banner.png">
-<h3 align="left">A passionate frontend developer from Philippines</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=790b7611d1d493745b4fc97713c442039192108f9224d3b2&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meraeugene&label=Profile%20views&color=0e75b6&style=flat" alt="meraeugene" /> </p>
 
