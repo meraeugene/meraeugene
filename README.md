@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="300" src="https://i.ibb.co/QMm30Yr/banner.png">
+<img align="left" alt="Coding" width="300" src="https://i.ibb.co/QMm30Yr/banner.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meraeugene&label=Profile%20views&color=0e75b6&style=flat" alt="meraeugene" /> </p>
 
 - 🔭 I’m currently working on [Quest Website](https://questwebsite.netlify.app/)
