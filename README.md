@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif">
+<img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/jsN192JGdyWvS1gqTb/giphy.gif">
 
 <p align="left">Im <b>Andrew Villalon</b> also known as <b>Arem</b>, and I'm a <b>Top GitHub committer</b> with 1 year of expertise in <b>Web Development</b>.</p>
 
