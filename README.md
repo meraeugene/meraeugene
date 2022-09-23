@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif"><br><br>
 
-Im **Andrew Villalon** also known as **Arem**, and I'm a **top GitHub committer** with 1 year of expertise in **Web Development**.
+<br><br>Im **Andrew Villalon** also known as **Arem**, and I'm a **top GitHub committer** with 1 year of expertise in **Web Development**.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&width=435&lines=I'm+Andrew+Villalon%2C+18+years+old;Front-end+Web+Developer)](https://git.io/typing-svg)
 
