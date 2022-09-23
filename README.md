@@ -1,6 +1,6 @@
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif">
 
-Im **Andrew Villalon** also known as **Arem**, and I'm a **top GitHub committer** with 1 year of expertise in **Web development**.
+<p align="left">Im <b>Andrew Villalon</b> also known as <b>Arem</b>, and I'm a <b>Top GitHub Committer</b> with 1 year of expertise in <b>Web Development</b>.</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&width=435&lines=I'm+Andrew+Villalon%2C+18+years+old;Front-end+Web+Developer)](https://git.io/typing-svg)
 
