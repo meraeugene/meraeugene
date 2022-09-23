@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking to collaborate on [Quest Website](https://questwebsite.netlify.app/)
 
-- 🆘 I’m looking for help with [Quest Website](https://questwebsite.netlify.app/)
+- 🆘 I’m looking for help with learning Front-end Web Development
 
 - 💬 Ask me about **HTML,CSS,Javascript**
 
