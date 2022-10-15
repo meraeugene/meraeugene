@@ -24,8 +24,11 @@
 <img src="https://img.shields.io/badge/-villalon.andrew123%40gmail.com-9D00FF?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">   </p>
+<h3 align="left">Languages:</h3>
+<p align="left"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</p>
 
 ### GitHub Highlights: 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=meraeugene&show_icons=true&theme=midnight-purple"/>
