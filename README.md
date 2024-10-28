@@ -12,7 +12,7 @@
 
 - 📩 How to reach me **villalon.andrew123@gmail.com**
 
-- 🎞️ Fun fact **I love serial killer documentaries**
+- 🎞️ Fun fact **I love psychological documentaries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
