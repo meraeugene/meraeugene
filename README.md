@@ -2,6 +2,10 @@
 
 <p align="left">Im <b>Andrew R. Villalon</b> also known as <b>Arem</b>, and I'm a <b>Top GitHub committer</b> with 3 year of expertise in <b>Full Stack Web Development</b>.</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meraeugene&label=Profile%20views&color=0e75b6&style=flat" alt="meraeugene" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meraeugene" alt="meraeugene" /></a> </p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&width=435&lines=I'm+Andrew+Villalon%2C+21+years+old;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 - 👨‍💻 All of my projects are available at [https://andrew-villalon-portfolio-v2.vercel.app/](https://andrew-villalon-portfolio-v2.vercel.app/)
@@ -26,5 +30,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraeugene&langs_count=8&layout=compact&theme=midnight-purple&hide=html,Tcl" />
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meraeugene&show_icons=true&locale=en&layout=compact" alt="meraeugene" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meraeugene&show_icons=true&locale=en" alt="meraeugene" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meraeugene&" alt="meraeugene" /></p>
 
 
