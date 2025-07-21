@@ -1,14 +1,8 @@
 <img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/LMhbwQ27DaXCTbX1zo/giphy.gif">
 
-<p align="left">Im <b>Andrew R. Villalon</b> also known as <b>Arem</b>, and I'm a <b>Top GitHub committer</b> with 2 year of expertise in <b>Full Stack Web Development</b>.</p>
+<p align="left">Im <b>Andrew R. Villalon</b> also known as <b>Arem</b>, and I'm a <b>Top GitHub committer</b> with 3 year of expertise in <b>Full Stack Web Development</b>.</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&width=435&lines=I'm+Andrew+Villalon%2C+20+years+old;Full-Stack+Web+Developer)](https://git.io/typing-svg)
-
-- 👨‍💻 I’m currently working on [Tim Hortons Clone Webstie](https://tim-hortons-clone.onrender.com/)
-
-- 💻 I’m currently learning **MERN STACK**
-
-- 💬 Ask me about **MERN Stack**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&width=435&lines=I'm+Andrew+Villalon%2C+21+years+old;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 - 📩 How to reach me **villalon.andrew123@gmail.com**
 
