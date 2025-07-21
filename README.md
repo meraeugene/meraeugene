@@ -4,11 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meraeugene&label=Profile%20views&color=0e75b6&style=flat" alt="meraeugene" /> </p>
 
-<p align="center" style="margin: 20px 0;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=meraeugene" alt="meraeugene trophies" />
-  </a>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=meraeugene&theme=onedark&row=1&column=6" />
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&width=435&lines=I'm+Andrew+Villalon%2C+21+years+old;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
