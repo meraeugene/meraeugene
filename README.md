@@ -30,10 +30,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraeugene&langs_count=8&layout=compact&theme=midnight-purple&hide=html,Tcl" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meraeugene&show_icons=true&locale=en&layout=compact" alt="meraeugene" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meraeugene&show_icons=true&locale=en" alt="meraeugene" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meraeugene&" alt="meraeugene" /></p>
-
 
