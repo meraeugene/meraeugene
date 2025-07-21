@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&width=435&lines=I'm+Andrew+Villalon%2C+21+years+old;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
-- 📩 How to reach me **villalon.andrew123@gmail.com**
-
-- 🎞️ Fun fact **I love psychological documentaries**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto: villalon.andrew123@gmail.com">
