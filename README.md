@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto: ">
-<img src="https://img.shields.io/badge/-villalon.andrew123%40gmail.com-9D00FF?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> 
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
