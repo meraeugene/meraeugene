@@ -10,13 +10,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&width=435&lines=I'm+Andrew+Villalon%2C+21+years+old;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 - 👨‍💻 All of my projects are available at [https://andrew-villalon-portfolio-v2.vercel.app/](https://andrew-villalon-portfolio-v2.vercel.app/)
-- 📫 How to reach me **villalon.andrew123@gmail.com**
+- 📫 How to reach me ****
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto: villalon.andrew123@gmail.com">
+<a href="mailto: ">
 <img src="https://img.shields.io/badge/-villalon.andrew123%40gmail.com-9D00FF?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> 
 </p>
 
