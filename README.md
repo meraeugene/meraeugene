@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me: andrew.villalon@1.ustp.edu.ph</h3>
 <p align="left">
 <a href="mailto: andrew.villalon@1.ustp.edu.ph ">
-<img src="https://img.shields.io/badge/-andrew.villalon%4011.ustp.edu.ph-9D00FF?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> 
+<img src="https://img.shields.io/badge/-andrew.villalon%401.ustp.edu.ph-9D00FF?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
