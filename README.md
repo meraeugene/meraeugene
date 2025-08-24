@@ -4,10 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meraeugene&label=Profile%20views&color=0e75b6&style=flat" alt="meraeugene" /> </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=meraeugene&theme=purple_mental&row=1&column=6" />
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000080&width=435&lines=Andrew+Villalon%2C+21+years+old;Full-Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFF&width=435&lines=Andrew+Villalon%2C+21+years+old;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 - 👨‍💻 All of my projects are available at https://andrew-villalon-portfolio-v2.vercel.app/
 - 📫 How to reach me: andrew.villalon@1.ustp.edu.ph
