@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&width=435&lines=Andrew+Villalon%2C+21+years+old;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 - 👨‍💻 All of my projects are available at https://andrew-villalon-portfolio-v2.vercel.app/
-- 📫 How to reach me: andrew.villalon@1.ustp.edu.ph****
+- 📫 How to reach me: andrew.villalon@1.ustp.edu.ph
 
 
 
