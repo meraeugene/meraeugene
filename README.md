@@ -7,16 +7,16 @@
 <img src="https://github-profile-trophy.vercel.app/?username=meraeugene&theme=purple_mental&row=1&column=6" />
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&width=435&lines=%2C+21+years+old;Full-Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&width=435&lines=Andrew%2Villalon%2C+21+years+old;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 - 👨‍💻 All of my projects are available at https://andrew-villalon-portfolio-v2.vercel.app/
 - 📫 How to reach me ****
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: andrew.villalon@1.ustp.edu.ph</h3>
 <p align="left">
-<a href="mailto: ">
+<a href="mailto: andrew.villalon@1.ustp.edu.ph ">
 
 </p>
 
