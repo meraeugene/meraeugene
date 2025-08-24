@@ -25,6 +25,8 @@
 
 ### GitHub Highlights: 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=meraeugene&show_icons=true&theme=midnight-purple"/>
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meraeugene&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraeugene&langs_count=8&layout=compact&theme=midnight-purple&hide=html,Tcl" />
