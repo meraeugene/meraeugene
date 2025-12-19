@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/LMhbwQ27DaXCTbX1zo/giphy.gif">
 
-<p align="left">Im Andrew Villalon<b</b> also known as <b>Andrei</b>, and I'm a <b>Top GitHub committer</b> with 3 year of expertise in <b>Full Stack Web Development</b>.</p>
+<p align="left">Im Andrew R. Villalon<b</b> also known as <b>Andrei</b>, and I'm a <b>Top GitHub committer</b> with 3 year of expertise in <b>Full Stack Web Development</b>.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meraeugene&label=Profile%20views&color=0e75b6&style=flat" alt="meraeugene" /> </p>
 
