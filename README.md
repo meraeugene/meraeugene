@@ -1,9 +1,6 @@
 <img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/LMhbwQ27DaXCTbX1zo/giphy.gif">
 
-<p align="left">Im Andrew R. Villalon<b</b> and a full-stack developer focused on frontend engineering, responsive UI/UX, and scalable web and mobile applications using Next.js,
-React, React Native, and TypeScript. Developing applications since 2022, with experience building enterprise ERP systems, CRM
-platforms, machine learning-powered applications, and cybersecurity tools with strong emphasis on frontend architecture,
-reusable components, animations, state management, analytics dashboards, and user experience.
+<p align="left">Im <b>Andrew R. Villalon</b> a Full Stack Web Developer with 4+ years of experience building fast, scalable, and visually polished web applications. My journey started in 2022 with a simple HTML & CSS landing page, and I've been obsessed with crafting great digital experiences ever since. I don't just build web apps; I focus heavily on UI and UX, ensuring that every interface is intuitive, accessible, and enjoyable for users. I care deeply about the frontend experience, making sure applications are not only functional but also visually engaging, inclusive, and easy to use across all devices.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meraeugene&label=Profile%20views&color=0e75b6&style=flat" alt="meraeugene" /> </p>
