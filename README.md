@@ -48,8 +48,8 @@ I care deeply about the details of the frontend experience, making sure interfac
 ### 📫 Let's Connect
 
 <p align="left">
-<a href="mailto:villalon.andrew123@gmail.com">
-  <img src="https://img.shields.io/badge/-villalon.andrew123%40gmail.com-6d8fd6?&style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:andrewvillalon.dev@gmail.com">
+  <img src="https://img.shields.io/badge/-andrewvillalon.dev%40gmail.com-6d8fd6?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/andrew-villalon">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
