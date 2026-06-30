@@ -22,7 +22,7 @@ I care deeply about the details of the frontend experience, making sure interfac
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -37,7 +37,7 @@ I care deeply about the details of the frontend experience, making sure interfac
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Working On
 
 - 👨‍💻 All of my projects are showcased at **[andrewvillalon.online](https://www.andrewvillalon.online/)**
 - 📌 Check my **pinned repositories** below for my featured work
@@ -45,7 +45,7 @@ I care deeply about the details of the frontend experience, making sure interfac
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="left">
 <a href="mailto:andrewvillalon.dev@gmail.com">
