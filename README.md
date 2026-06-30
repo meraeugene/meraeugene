@@ -39,9 +39,9 @@ I care deeply about the details of the frontend experience, making sure interfac
 
 ### What I'm Working On
 
-- 👨‍💻 All of my projects are showcased at **[andrewvillalon.online](https://www.andrewvillalon.online/)**
-- 📌 Check my **pinned repositories** below for my featured work
-- 🌱 Currently sharpening my full-stack range while staying frontend-first
+- All of my projects are showcased at **[andrewvillalon.online](https://www.andrewvillalon.online/)**
+- Check my **pinned repositories** below for my featured work
+- Currently sharpening my full-stack range while staying frontend-first
 
 ---
 
@@ -61,7 +61,7 @@ I care deeply about the details of the frontend experience, making sure interfac
 
 ---
 
-### 📊 GitHub Highlights
+### GitHub Highlights
 
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=meraeugene&show_icons=true&theme=blue_navy" alt="Andrew's GitHub stats" />
